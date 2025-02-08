@@ -1,0 +1,182 @@
+[
+  {
+    "lenght": 3,
+    "volume": 23.04,
+    "dateOfArrival": "2024-10-04T14:35",
+    "dateOfDeparture": "2024-10-12T16:00",
+    "storer": {
+      "address": "CRA 7A N° 58-51 La Cumbre",
+      "phoneNumber": "3233033521",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan David Reyes Ortiz",
+      "id": "KJI9W"
+    },
+    "width": 3.2,
+    "days": 8,
+    "payment": 921600,
+    "id": "VVUH956M",
+    "warehouse": "Zona industrial La Enea, Manizales",
+    "content": "Avena en bultos de 12 kilos",
+    "height": 2.4
+  },
+  {
+    "lenght": 2.5,
+    "volume": 13.125,
+    "dateOfArrival": "2024-10-07T12:00",
+    "dateOfDeparture": "2024-10-20T12:00",
+    "storer": {
+      "address": "Edificio Administrativo, piso 3, Ucaldas",
+      "phoneNumber": "3121217819",
+      "city": "MANIZALES CALDAS",
+      "name": "Carlos Mario Marín",
+      "id": "C0002"
+    },
+    "width": 2.1,
+    "days": 13,
+    "payment": 853125,
+    "id": "W3HN7VX9",
+    "warehouse": "Zona industrial Juanchito, Bogotá",
+    "content": "500 unidades de arándanos deshidratados x 500 gramos",
+    "height": 2.5
+  },
+  {
+    "lenght": 6,
+    "volume": 34.56,
+    "dateOfArrival": "2024-09-04T14:35",
+    "dateOfDeparture": "2024-12-12T16:00",
+    "storer": {
+      "address": "En el centro, al lado del supermercado",
+      "phoneNumber": "3173288343",
+      "city": "GIRARDOT CUNDINAMARCA",
+      "name": "Fabio Reyes Macias",
+      "id": "C0004"
+    },
+    "width": 2.4,
+    "days": 99,
+    "payment": 1.71072E7,
+    "id": "ILSNYD54",
+    "warehouse": "Zona industrial de Gallinazo, Manizales",
+    "content": "Cemento en bultos de 14 kilos",
+    "height": 2.4
+  },
+  {
+    "lenght": 4,
+    "volume": 20.72,
+    "dateOfArrival": "2024-11-04T14:35",
+    "dateOfDeparture": "2024-12-12T16:00",
+    "storer": {
+      "address": "Al lado de la iglesia central",
+      "phoneNumber": "3233288343",
+      "city": "BITUIMA CUNDINAMARCA",
+      "name": "Raúl Alejandro Martinez Ossa",
+      "id": "C0005"
+    },
+    "width": 2,
+    "days": 38,
+    "payment": 3936800,
+    "id": "T77Q8L7K",
+    "warehouse": "Restaurante de la Estrella, Manizales",
+    "content": "Arroz en bultos de 15 kilos",
+    "height": 2.59
+  },
+  {
+    "lenght": 2.5,
+    "volume": 15.25,
+    "dateOfArrival": "2024-10-07T12:00",
+    "dateOfDeparture": "2024-10-20T12:00",
+    "storer": {
+      "address": "Edificio Administrativo, piso 3, Ucaldas",
+      "phoneNumber": "3121217819",
+      "city": "MANIZALES CALDAS",
+      "name": "Carlos Mario Marín",
+      "id": "C0002"
+    },
+    "width": 2.44,
+    "days": 13,
+    "payment": 991250,
+    "id": "OOGIBHMQ",
+    "warehouse": "Zona industrial Juanchito, Bogotá",
+    "content": "500 unidades de Uvas deshidratados x 500 gramos",
+    "height": 2.5
+  },
+  {
+    "lenght": 4,
+    "volume": 20.72,
+    "dateOfArrival": "2024-12-04T14:35",
+    "dateOfDeparture": "2024-12-12T16:00",
+    "storer": {
+      "address": "Al lado de la iglesia central",
+      "phoneNumber": "3233288343",
+      "city": "BITUIMA CUNDINAMARCA",
+      "name": "Raúl Alejandro Martinez Ossa",
+      "id": "C0005"
+    },
+    "width": 2,
+    "days": 8,
+    "payment": 828800,
+    "id": "SW8P780P",
+    "warehouse": "Restaurante de la Estrella, Manizales",
+    "content": "Avena en bultos de 20 kilos",
+    "height": 2.59
+  },
+  {
+    "lenght": 4,
+    "volume": 20.72,
+    "dateOfArrival": "2024-09-04T14:35",
+    "dateOfDeparture": "2024-12-12T16:00",
+    "storer": {
+      "address": "Al lado de la iglesia central",
+      "phoneNumber": "3233288343",
+      "city": "BITUIMA CUNDINAMARCA",
+      "name": "Raúl Alejandro Martinez Ossa",
+      "id": "C0005"
+    },
+    "width": 2,
+    "days": 99,
+    "payment": 1.02564E7,
+    "id": "SJ4FJ5QV",
+    "warehouse": "Restaurante de la Estrella, Manizales",
+    "content": "Avena en bultos de 19 kilos",
+    "height": 2.59
+  },
+  {
+    "lenght": 2.23,
+    "volume": 2.2077,
+    "dateOfArrival": "2024-11-16T10:27",
+    "dateOfDeparture": "2024-11-26T11:27",
+    "storer": {
+      "address": "En el centro, al lado del supermercado",
+      "phoneNumber": "3173288343",
+      "city": "GIRARDOT CUNDINAMARCA",
+      "name": "Fabio Reyes Macias",
+      "id": "C0004"
+    },
+    "width": 0.9,
+    "days": 10,
+    "payment": 110385,
+    "id": "ZL62C43H",
+    "warehouse": "Zona industrial de Gallinazo",
+    "content": "Paquete de Cervezas 12x12",
+    "height": 1.1
+  },
+  {
+    "lenght": 0.3,
+    "volume": 0.0288,
+    "dateOfArrival": "2024-11-18T09:30",
+    "dateOfDeparture": "2024-11-25T10:00",
+    "storer": {
+      "address": "Calle 65 A N°10 172",
+      "phoneNumber": "3015701927",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan José García Gómez",
+      "id": "74OCF"
+    },
+    "width": 0.24,
+    "days": 7,
+    "payment": 1008,
+    "id": "CSK9FY7J",
+    "warehouse": "Efecty de la Avenida la Sultana",
+    "content": "Un paquete de libros",
+    "height": 0.4
+  }
+]

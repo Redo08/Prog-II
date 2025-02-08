@@ -1,0 +1,159 @@
+[
+  {
+    "addressee": {
+      "phoneNumber": "3233033521",
+      "address": "CRA 7A N° 58-51 La Cumbre",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan David Reyes Ortiz",
+      "id": "KJI9W"
+    },
+    "sender": {
+      "phoneNumber": "31323343484",
+      "address": "Ciudad Jardin, por la floresta",
+      "city": "VILLAMARIA CALDAS",
+      "name": "Sara Toro Londoño",
+      "id": "C0003"
+    },
+    "weight": 3000,
+    "payment": 3000000,
+    "isFragile": false,
+    "id": "F3RCWE2S",
+    "type": "Sack",
+    "value": 100000,
+    "content": "Panela en atados",
+    "numGuide": "F3RCWE2S",
+    "status": [{
+      "dateTime": "2024-10-09T11:29:33",
+      "id": "1198946591",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "addressee": {
+      "phoneNumber": "3115551234",
+      "address": "Edificio del parque, piso 2, Ucaldas",
+      "city": "VENTAQUEMADA BOYACA",
+      "name": "Carlos Cuesta Iglesias",
+      "id": "C0001"
+    },
+    "sender": {
+      "phoneNumber": "3212383939",
+      "address": "La Sultana por el barrio de atras del mercaldas",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan José Galeano",
+      "id": "T2QGP"
+    },
+    "weight": 10,
+    "payment": 10000,
+    "isFragile": false,
+    "id": "MI2VZ880",
+    "type": "Sack",
+    "value": 100000,
+    "content": "Papa R12 por 25 Kilos",
+    "numGuide": "MI2VZ880",
+    "status": [{
+      "dateTime": "2024-10-27T13:35:21",
+      "id": "649297221",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "addressee": {
+      "phoneNumber": "3115551234",
+      "address": "Edificio del parque, piso 2, Ucaldas",
+      "city": "VENTAQUEMADA BOYACA",
+      "name": "Carlos Cuesta Iglesias",
+      "id": "C0001"
+    },
+    "sender": {
+      "phoneNumber": "31323343484",
+      "address": "Ciudad Jardin, por la floresta",
+      "city": "VILLAMARIA CALDAS",
+      "name": "Sara Toro Londoño",
+      "id": "C0003"
+    },
+    "weight": 3000,
+    "payment": 3000000,
+    "isFragile": false,
+    "id": "6L2O91GH",
+    "type": "Sack",
+    "value": 5000,
+    "content": "Atun en barra",
+    "numGuide": "6L2O91GH",
+    "status": [{
+      "dateTime": "2024-10-27T13:37:08",
+      "id": "266593809",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "addressee": {
+      "phoneNumber": "3121217819",
+      "address": "Edificio Administrativo, piso 3, Ucaldas",
+      "city": "MANIZALES CALDAS",
+      "name": "Carlos Mario Marín",
+      "id": "C0002"
+    },
+    "sender": {
+      "phoneNumber": "3173288343",
+      "address": "En el centro, al lado del supermercado",
+      "city": "GIRARDOT CUNDINAMARCA",
+      "name": "Fabio Reyes Macias",
+      "id": "C0004"
+    },
+    "weight": 3500,
+    "payment": 3500000,
+    "isFragile": false,
+    "id": "ZHV03H2P",
+    "type": "Sack",
+    "value": 5000,
+    "content": "Saco de arroz",
+    "numGuide": "ZHV03H2P",
+    "status": [
+      {
+        "dateTime": "2024-10-09T11:29:33",
+        "id": "1465280764",
+        "deliveryStatus": "RECEIVED"
+      },
+      {
+        "dateTime": "2024-12-06T19:14",
+        "id": "1264986621",
+        "deliveryStatus": "IN_PREPARATION"
+      },
+      {
+        "dateTime": "2024-12-06T19:37",
+        "id": "1371492280",
+        "deliveryStatus": "SENT"
+      }
+    ]
+  },
+  {
+    "addressee": {
+      "phoneNumber": "3121217819",
+      "address": "Edificio Administrativo, piso 3, Ucaldas",
+      "city": "MANIZALES CALDAS",
+      "name": "Carlos Mario Marín",
+      "id": "C0002"
+    },
+    "sender": {
+      "phoneNumber": "3233033521",
+      "address": "CRA 7A N° 58-51 La Cumbre",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan David Reyes Ortiz",
+      "id": "KJI9W"
+    },
+    "weight": 100,
+    "payment": 100000,
+    "isFragile": false,
+    "id": "DS1HFVBI",
+    "type": "Sack",
+    "value": 100000,
+    "content": "Papa R12 por 25 Kilos",
+    "numGuide": "DS1HFVBI",
+    "status": [{
+      "dateTime": "2024-10-09T11:29:33",
+      "id": "2145013354",
+      "deliveryStatus": "RECEIVED"
+    }]
+  }
+]

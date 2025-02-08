@@ -1,0 +1,264 @@
+[
+  {
+    "addressee": {
+      "address": "Ciudad Jardin, por la floresta",
+      "phoneNumber": "31323343484",
+      "city": "VILLAMARIA CALDAS",
+      "name": "Sara Toro Londoño",
+      "id": "C0003"
+    },
+    "sender": {
+      "address": "Dublin, los edificios grandes",
+      "phoneNumber": "3233345939",
+      "city": "MEDELLÍN ANTIOQUIA",
+      "name": "Juan Camilo Agudelo",
+      "id": "T38BF"
+    },
+    "weight": 1000,
+    "payment": 100000,
+    "isFragile": true,
+    "id": "IMCDEJ4E",
+    "type": "Pack",
+    "value": 250000,
+    "content": "Componentes Quimicos",
+    "numGuide": "IMCDEJ4E",
+    "status": [
+      {
+        "dateTime": "2024-12-04T15:03",
+        "id": "1009195982",
+        "deliveryStatus": "RECEIVED"
+      },
+      {
+        "dateTime": "2024-12-05T14:42",
+        "id": "660783025",
+        "deliveryStatus": "IN_PREPARATION"
+      },
+      {
+        "dateTime": "2024-12-05T14:50",
+        "id": "1822250948",
+        "deliveryStatus": "SENT"
+      },
+      {
+        "dateTime": "2024-12-05T14:52",
+        "id": "1722287118",
+        "deliveryStatus": "ON_THE_WAY"
+      },
+      {
+        "dateTime": "2024-12-05T14:54",
+        "id": "1796919562",
+        "deliveryStatus": "DELIVERED"
+      },
+      {
+        "dateTime": "2024-12-05T14:56",
+        "id": "1793674101",
+        "deliveryStatus": "RETURNED"
+      }
+    ]
+  },
+  {
+    "addressee": {
+      "address": "Edificio del parque, piso 2, Ucaldas",
+      "phoneNumber": "3115551234",
+      "city": "VENTAQUEMADA BOYACA",
+      "name": "Carlos Cuesta Iglesias",
+      "id": "C0001"
+    },
+    "sender": {
+      "address": "La Sultana por el barrio de atras del mercaldas",
+      "phoneNumber": "3212383939",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan José Galeano",
+      "id": "T2QGP"
+    },
+    "weight": 1500,
+    "payment": 150000,
+    "isFragile": true,
+    "id": "0CAUU7KP",
+    "type": "Pack",
+    "value": 250000,
+    "content": "Componentes eléctricos",
+    "numGuide": "0CAUU7KP",
+    "status": [
+      {
+        "dateTime": "2024-10-27T13:15:36",
+        "id": "988450811",
+        "deliveryStatus": "RECEIVED"
+      },
+      {
+        "dateTime": "2024-12-06T11:40",
+        "id": "613452164",
+        "deliveryStatus": "IN_PREPARATION"
+      },
+      {
+        "dateTime": "2024-12-06T11:42",
+        "id": "2122617422",
+        "deliveryStatus": "SENT"
+      },
+      {
+        "dateTime": "2024-12-06T11:42",
+        "id": "971384315",
+        "deliveryStatus": "LOST"
+      },
+      {
+        "dateTime": "2024-12-06T11:42",
+        "id": "1272621586",
+        "deliveryStatus": "ON_THE_WAY"
+      },
+      {
+        "dateTime": "2024-12-06T11:42",
+        "id": "1803250736",
+        "deliveryStatus": "DELIVERED"
+      }
+    ]
+  },
+  {
+    "addressee": {
+      "address": "Dublin, los edificios grandes",
+      "phoneNumber": "3233345939",
+      "city": "MEDELLÍN ANTIOQUIA",
+      "name": "Juan Camilo Agudelo",
+      "id": "T38BF"
+    },
+    "sender": {
+      "address": "La Sultana por el barrio de atras del mercaldas",
+      "phoneNumber": "3212383939",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan José Galeano",
+      "id": "T2QGP"
+    },
+    "weight": 12,
+    "payment": 1200,
+    "isFragile": true,
+    "id": "LZH9PU3X",
+    "type": "Pack",
+    "value": 1000,
+    "content": "Componentes Agricolas",
+    "numGuide": "LZH9PU3X",
+    "status": [{
+      "dateTime": "2024-10-27T13:24:51",
+      "id": "1682397760",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "addressee": {
+      "address": "Al lado de la iglesia central",
+      "phoneNumber": "3233288343",
+      "city": "BITUIMA CUNDINAMARCA",
+      "name": "Raúl Alejandro Martinez Ossa",
+      "id": "C0005"
+    },
+    "sender": {
+      "address": "Pio XII, cerca a fátima",
+      "phoneNumber": "3212345939",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan José Martinez",
+      "id": "0UCAJ"
+    },
+    "weight": 3000,
+    "payment": 300000,
+    "isFragile": false,
+    "id": "NW0X8M4A",
+    "type": "Pack",
+    "value": 2000000,
+    "content": "Componentes de Sistemas",
+    "numGuide": "NW0X8M4A",
+    "status": [{
+      "dateTime": "2024-10-28T10:28:12",
+      "id": "2071391758",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "addressee": {
+      "address": "Al lado de la iglesia central",
+      "phoneNumber": "3233288343",
+      "city": "BITUIMA CUNDINAMARCA",
+      "name": "Raúl Alejandro Martinez Ossa",
+      "id": "C0005"
+    },
+    "sender": {
+      "address": "La Sultana por el barrio de atras del mercaldas",
+      "phoneNumber": "3212383939",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan José Galeano",
+      "id": "T2QGP"
+    },
+    "weight": 1500,
+    "payment": 150000,
+    "isFragile": true,
+    "id": "66004PQG",
+    "type": "Pack",
+    "value": 2000000,
+    "content": "Componentes de Biologia",
+    "numGuide": "66004PQG",
+    "status": [
+      {
+        "dateTime": "2024-10-08T19:29:44",
+        "id": "1420577566",
+        "deliveryStatus": "RECEIVED"
+      },
+      {
+        "dateTime": "2024-12-05T14:57",
+        "id": "877321559",
+        "deliveryStatus": "IN_PREPARATION"
+      },
+      {
+        "dateTime": "2024-12-05T14:59",
+        "id": "159997516",
+        "deliveryStatus": "SENT"
+      },
+      {
+        "dateTime": "2024-12-05T15:02",
+        "id": "889392987",
+        "deliveryStatus": "ON_THE_WAY"
+      },
+      {
+        "dateTime": "2024-12-05T15:03",
+        "id": "301374610",
+        "deliveryStatus": "DELIVERED"
+      },
+      {
+        "dateTime": "2024-12-05T15:08",
+        "id": "1800487806",
+        "deliveryStatus": "RETURNED"
+      }
+    ]
+  },
+  {
+    "addressee": {
+      "address": "CR 7A 58 51 URB LA CUMBRE CA",
+      "phoneNumber": "3233033231",
+      "city": "SALGAR ANTIOQUIA",
+      "name": "Juan Esteban Patiño Osorio",
+      "id": "P70QF"
+    },
+    "sender": {
+      "address": "Calle 65 A N°10 172",
+      "phoneNumber": "3015701927",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan José García Gómez",
+      "id": "74OCF"
+    },
+    "weight": 10,
+    "payment": 1000,
+    "isFragile": false,
+    "id": "2DWGCD8B",
+    "type": "Pack",
+    "value": 1000,
+    "content": "Un paquete secreto",
+    "numGuide": "2DWGCD8B",
+    "status": [
+      {
+        "dateTime": "2024-10-10T19:29:44",
+        "id": "488834579",
+        "deliveryStatus": "DELIVERED"
+      },
+      {
+        "dateTime": "2024-10-10T19:29:44",
+        "id": "230320065",
+        "deliveryStatus": "RETURNED"
+      }
+    ]
+  }
+]
