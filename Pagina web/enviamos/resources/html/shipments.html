@@ -1,0 +1,70 @@
+<form id="form-deliveries">
+  <fieldset>
+    <!-- IMPORTANTE: no es necesario mostrar el ID de los envios, por eso type="hidden"  -->
+    <!-- numGuide, certified isFragile-->
+    <div class="row mx-1 my-0 align-items-center">
+      <!-- Del Bootstrap-->
+      <!-- Columa Izquierda NumGuide-->
+      <div class="col-md-4">
+        <!-- divide el layout en 2 partes iguales, el total es 12;  sm=> small, md=> medium-->
+        <div class="form-group">
+          <label for="numGuide" class="form-label my-0">NumGuide</label>
+          <input type="text" class="form-control" id="numGuide" name="numGuide" placeholder="Automatic assignment" disabled />
+        </div>
+      </div>
+      <!-- Certified -->
+      <div id="div-certified" class="col-md-4 d-flex justify-content-end align-items-center" style="visibility: hidden">
+          <label for="certified" class="form-check-label my-0 me-2">Certified</label>
+          <input type="checkbox" id="certified" name="certified" />
+      </div>
+      <!-- Columa Derecha isFragile-->
+      <div class="col-md-4 d-flex justify-content-end align-items-center">
+        <!-- d-flex justify-content-end Lo mueve a la derecha;  align-items-center los alinea verticalmente -->
+        <label for="fragile" class="form-label my-0 me-2">isFragile</label>
+        <input type="checkbox" id="fragile" name="fragile" />
+      </div>
+    </div>
+    <!-- Sender and Addressee-->
+    <div class="row mx-1 my-0 align-items-center">
+      <!--Sender-->
+      <div class="col-md-6">
+        <div class="form-group">
+          <label for="sender" class="form-label my-0">Sender</label>
+          <select class="form-select" id="sender" name="sender"></select>
+        </div>
+      </div>
+
+      <!-- Addresee-->
+      <div class="col-md-6">
+        <div class="form-group">
+          <label for="addressee" class="form-label my-0">Addressee</label>
+          <select class="form-select" id="addressee" name="addressee"></select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Content-->
+    <div class="form-group mx-3 mt-2">
+      <label for="content" class="form-label my-0">Content</label>
+      <input type="text" class="form-control" id="content" name="content" minlength="4" maxlength="150" required />
+    </div>
+
+    <!-- Weight and Value -->
+    <div id="div-weight-value" class="row mx-1">
+      <!--Weight-->
+      <div class="col">
+        <div class="form-group">
+          <label for="weight" class="form-label mt-2 mb-0">Weight</label>
+          <input type="number" class="form-control" id="weight" name="weight" value="0.0" min="0.0" max="12.0" step="0.01" required />
+        </div>
+      </div>
+
+      <div class="col">
+        <!--Value-->
+        <div class="form-group"></div>
+        <label for="value" class="form-label mt-2 mb-0">Value</label>
+        <input type="number" class="form-control" id="value" name="value" value="0.0" min="0.0" max="1000.0" step="0.01" required />
+      </div>
+    </div>
+  </fieldset>
+</form>

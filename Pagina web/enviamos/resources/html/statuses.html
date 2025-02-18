@@ -1,0 +1,58 @@
+<html>
+  <head> </head>
+
+  <body class="bg-light">
+    <div id="Titulo">
+      <h5 style="color: white" class="form-label mx-3">Delivery Statuses</h5>
+    </div>
+    <form id="form-statuses">
+      <fieldset>
+        <!--Primer formato, dateTime - DeliveryType - NumGuide -->
+        <div class="row mx-1 my-0">
+          <!-- DateTime -->
+          <div class="col-4">
+            <div class="form-group">
+              <label for="Date-time" class="form-label my-0" style="color: white">DateTime</label>
+              <input type="datetime" class="form-control" id="dateTime" name="dateTime" disabled />
+            </div>
+          </div>
+
+          <!-- DeliveryType-->
+          <div class="col-4">
+            <div class="form-group">
+              <label for="DeliveryType" class="form-label my-0" style="color: white">DeliveryType</label>
+              <select class="form-select" id="deliveryType" name="deliveryType">
+                <option value="null">Select a delivery Type</option>
+                <option value="sack">Sacks</option>
+                <option value="box">Boxes</option>
+                <option value="pack">Packs</option>
+                <option value="envelope">Envelopes</option>
+              </select>
+            </div>
+          </div>
+
+          <!--NumGuide-->
+          <div class="col-2">
+            <div class="form-group">
+              <label for="numGuide" class="form-label my-0">NumGuide</label>
+              <input type="text" class="form-control" id="numGuide" name="numGuide" minlength="4" maxlength="8" required />
+            </div>
+          </div>
+
+          <!-- Button -->
+          <div class="col-2">
+            <div class="form-group">
+              <button type="button" class="btn btn-secondary mt-4" id="button">Search delivery</button>
+              <!-- mt, Margin Top-->
+            </div>
+          </div>
+        </div>
+      </fieldset>
+    </form>
+    <div class="card border-light text-bg-gray mb-3 mx-3 mt-3">
+      <div class="card-body">
+        <p class="card-text" id="initial-text">Select a delivery Type, give a num Guide and click on Search Delivery</p>
+      </div>
+    </div>
+  </body>
+</html>

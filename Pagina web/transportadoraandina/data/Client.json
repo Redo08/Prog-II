@@ -1,0 +1,93 @@
+[
+  {
+    "phoneNumber": "3115551234",
+    "address": "Edificio del parque, piso 2, Ucaldas",
+    "city": "VENTAQUEMADA BOYACA",
+    "name": "Carlos Cuesta Iglesias",
+    "id": "C0001"
+  },
+  {
+    "phoneNumber": "3233033521",
+    "address": "CRA 7A N° 58-51 La Cumbre",
+    "city": "MANIZALES CALDAS",
+    "name": "Juan David Reyes Ortiz",
+    "id": "KJI9W"
+  },
+  {
+    "phoneNumber": "3121217819",
+    "address": "Edificio Administrativo, piso 3, Ucaldas",
+    "city": "MANIZALES CALDAS",
+    "name": "Carlos Mario Marín",
+    "id": "C0002"
+  },
+  {
+    "phoneNumber": "3212383939",
+    "address": "La Sultana por el barrio de atras del mercaldas",
+    "city": "MANIZALES CALDAS",
+    "name": "Juan José Galeano",
+    "id": "T2QGP"
+  },
+  {
+    "phoneNumber": "3233345939",
+    "address": "Dublin, los edificios grandes",
+    "city": "MEDELLÍN ANTIOQUIA",
+    "name": "Juan Camilo Agudelo",
+    "id": "T38BF"
+  },
+  {
+    "phoneNumber": "31323343484",
+    "address": "Ciudad Jardin, por la floresta",
+    "city": "VILLAMARIA CALDAS",
+    "name": "Sara Toro Londoño",
+    "id": "C0003"
+  },
+  {
+    "phoneNumber": "3173288343",
+    "address": "En el centro, al lado del supermercado",
+    "city": "GIRARDOT CUNDINAMARCA",
+    "name": "Fabio Reyes Macias",
+    "id": "C0004"
+  },
+  {
+    "phoneNumber": "3233288343",
+    "address": "Al lado de la iglesia central",
+    "city": "BITUIMA CUNDINAMARCA",
+    "name": "Raúl Alejandro Martinez Ossa",
+    "id": "C0005"
+  },
+  {
+    "phoneNumber": "3212345939",
+    "address": "Pio XII, cerca a fátima",
+    "city": "MANIZALES CALDAS",
+    "name": "Juan José Martinez",
+    "id": "0UCAJ"
+  },
+  {
+    "phoneNumber": "3233033231",
+    "address": "CR 7A 58 51 URB LA CUMBRE CA",
+    "city": "SALGAR ANTIOQUIA",
+    "name": "Juan Esteban Patiño Osorio",
+    "id": "P70QF"
+  },
+  {
+    "phoneNumber": "3015701927",
+    "address": "Calle 65 A N°10 172",
+    "city": "MANIZALES CALDAS",
+    "name": "Juan José García Gómez",
+    "id": "74OCF"
+  },
+  {
+    "phoneNumber": "3123213456",
+    "address": "Cra 8A N°23 Barrio la sultana",
+    "city": "MANIZALES CALDAS",
+    "name": "Juan Carlos Ossa",
+    "id": "1B9TX"
+  },
+  {
+    "phoneNumber": "3004567841",
+    "address": "Cra 27 N°50 A 45",
+    "city": "BELMIRA ANTIOQUIA",
+    "name": "Hermenegildo María",
+    "id": "UFXSX"
+  }
+]

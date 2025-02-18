@@ -1,0 +1,359 @@
+[
+  {
+    "weight": 12,
+    "type": "Box",
+    "content": "Cajita de cereal",
+    "numGuide": "RZG0L5T6",
+    "lenght": 10,
+    "volume": 40,
+    "addressee": {
+      "phoneNumber": "3115551234",
+      "address": "Edificio del parque, piso 2, Ucaldas",
+      "city": "VENTAQUEMADA BOYACA",
+      "name": "Carlos Cuesta Iglesias",
+      "id": "C0001"
+    },
+    "sender": {
+      "phoneNumber": "31323343484",
+      "address": "Ciudad Jardin, por la floresta",
+      "city": "VILLAMARIA CALDAS",
+      "name": "Sara Toro Londoño",
+      "id": "C0003"
+    },
+    "width": 2,
+    "payment": 46000,
+    "isFragile": false,
+    "id": "RZG0L5T6",
+    "value": 1000,
+    "height": 2,
+    "status": [{
+      "dateTime": "2024-10-27T18:26:13",
+      "id": "428697625",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "weight": 12,
+    "type": "Box",
+    "content": "Chicles",
+    "numGuide": "VVR2ZEB1",
+    "lenght": 12,
+    "volume": 71.4432,
+    "addressee": {
+      "phoneNumber": "31323343484",
+      "address": "Ciudad Jardin, por la floresta",
+      "city": "VILLAMARIA CALDAS",
+      "name": "Sara Toro Londoño",
+      "id": "C0003"
+    },
+    "sender": {
+      "phoneNumber": "3233033521",
+      "address": "CRA 7A N° 58-51 La Cumbre",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan David Reyes Ortiz",
+      "id": "KJI9W"
+    },
+    "width": 2.44,
+    "payment": 77443.20000000001,
+    "isFragile": false,
+    "id": "VVR2ZEB1",
+    "value": 100,
+    "height": 2.44,
+    "status": [{
+      "dateTime": "2024-10-27T18:28:19",
+      "id": "1550122195",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "weight": 10,
+    "type": "Box",
+    "content": "Papa R12 por 25 Kilos",
+    "numGuide": "2DTE9KFI",
+    "lenght": 12,
+    "volume": 71.4432,
+    "addressee": {
+      "phoneNumber": "3212383939",
+      "address": "La Sultana por el barrio de atras del mercaldas",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan José Galeano",
+      "id": "T2QGP"
+    },
+    "sender": {
+      "phoneNumber": "3121217819",
+      "address": "Edificio Administrativo, piso 3, Ucaldas",
+      "city": "MANIZALES CALDAS",
+      "name": "Carlos Mario Marín",
+      "id": "C0002"
+    },
+    "width": 2.44,
+    "payment": 76443.20000000001,
+    "isFragile": true,
+    "id": "2DTE9KFI",
+    "value": 1000,
+    "height": 2.44,
+    "status": [
+      {
+        "dateTime": "2024-10-27T18:28:55",
+        "id": "1494156625",
+        "deliveryStatus": "RECEIVED"
+      },
+      {
+        "dateTime": "2024-12-06T18:54",
+        "id": "1246115257",
+        "deliveryStatus": "IN_PREPARATION"
+      },
+      {
+        "dateTime": "2024-12-06T18:55",
+        "id": "88665379",
+        "deliveryStatus": "SENT"
+      },
+      {
+        "dateTime": "2024-12-06T18:56",
+        "id": "1893124645",
+        "deliveryStatus": "LOST"
+      },
+      {
+        "dateTime": "2024-12-06T19:05",
+        "id": "699550468",
+        "deliveryStatus": "ON_THE_WAY"
+      },
+      {
+        "dateTime": "2024-12-06T21:05",
+        "id": "710003872",
+        "deliveryStatus": "DELIVERED"
+      }
+    ]
+  },
+  {
+    "weight": 12,
+    "type": "Box",
+    "content": "Productos de lmipieza",
+    "numGuide": "W64IKGOD",
+    "lenght": 11,
+    "volume": 65.4896,
+    "addressee": {
+      "phoneNumber": "3212345939",
+      "address": "Pio XII, cerca a fátima",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan José Martinez",
+      "id": "0UCAJ"
+    },
+    "sender": {
+      "phoneNumber": "3233345939",
+      "address": "Dublin, los edificios grandes",
+      "city": "MEDELLÍN ANTIOQUIA",
+      "name": "Juan Camilo Agudelo",
+      "id": "T38BF"
+    },
+    "width": 2.44,
+    "payment": 71489.59999999999,
+    "isFragile": false,
+    "id": "W64IKGOD",
+    "value": 1000,
+    "height": 2.44,
+    "status": [{
+      "dateTime": "2024-10-28T10:31:58",
+      "id": "1590771079",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "weight": 12,
+    "type": "Box",
+    "content": "Pinturas muy finas",
+    "numGuide": "JR7S4401",
+    "lenght": 11,
+    "volume": 65.4896,
+    "addressee": {
+      "phoneNumber": "3233288343",
+      "address": "Al lado de la iglesia central",
+      "city": "BITUIMA CUNDINAMARCA",
+      "name": "Raúl Alejandro Martinez Ossa",
+      "id": "C0005"
+    },
+    "sender": {
+      "phoneNumber": "3173288343",
+      "address": "En el centro, al lado del supermercado",
+      "city": "GIRARDOT CUNDINAMARCA",
+      "name": "Fabio Reyes Macias",
+      "id": "C0004"
+    },
+    "width": 2.44,
+    "payment": 71489.59999999999,
+    "isFragile": true,
+    "id": "JR7S4401",
+    "value": 1000,
+    "height": 2.44,
+    "status": [{
+      "dateTime": "2024-10-08T19:29:44",
+      "id": "1249820821",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "weight": 9,
+    "type": "Box",
+    "content": "Una gran cantidad de cartas",
+    "numGuide": "5S5HPUHY",
+    "lenght": 11,
+    "volume": 20.344500000000004,
+    "addressee": {
+      "phoneNumber": "3212383939",
+      "address": "La Sultana por el barrio de atras del mercaldas",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan José Galeano",
+      "id": "T2QGP"
+    },
+    "sender": {
+      "phoneNumber": "3121217819",
+      "address": "Edificio Administrativo, piso 3, Ucaldas",
+      "city": "MANIZALES CALDAS",
+      "name": "Carlos Mario Marín",
+      "id": "C0002"
+    },
+    "width": 1.37,
+    "payment": 24844.500000000004,
+    "isFragile": true,
+    "id": "5S5HPUHY",
+    "value": 100,
+    "height": 1.35,
+    "status": [{
+      "dateTime": "2024-11-17T11:11:30",
+      "id": "684968562",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "weight": 12,
+    "type": "Box",
+    "content": "Un paquete de libros 4x4",
+    "numGuide": "XYXT9I1U",
+    "lenght": 12,
+    "volume": 75.8352,
+    "addressee": {
+      "phoneNumber": "3233033521",
+      "address": "CRA 7A N° 58-51 La Cumbre",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan David Reyes Ortiz",
+      "id": "KJI9W"
+    },
+    "sender": {
+      "phoneNumber": "31323343484",
+      "address": "Ciudad Jardin, por la floresta",
+      "city": "VILLAMARIA CALDAS",
+      "name": "Sara Toro Londoño",
+      "id": "C0003"
+    },
+    "width": 2.44,
+    "payment": 81835.2,
+    "isFragile": true,
+    "id": "XYXT9I1U",
+    "value": 110,
+    "height": 2.59,
+    "status": [{
+      "dateTime": "2024-11-17T11:15:59",
+      "id": "1968577421",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "weight": 12,
+    "type": "Box",
+    "content": "Paquete de Cervezas 12x13",
+    "numGuide": "J3CFOROC",
+    "lenght": 1,
+    "volume": 1,
+    "addressee": {
+      "phoneNumber": "3115551234",
+      "address": "Edificio del parque, piso 2, Ucaldas",
+      "city": "VENTAQUEMADA BOYACA",
+      "name": "Carlos Cuesta Iglesias",
+      "id": "C0001"
+    },
+    "sender": {
+      "phoneNumber": "3121217819",
+      "address": "Edificio Administrativo, piso 3, Ucaldas",
+      "city": "MANIZALES CALDAS",
+      "name": "Carlos Mario Marín",
+      "id": "C0002"
+    },
+    "width": 1,
+    "payment": 18000,
+    "isFragile": true,
+    "id": "J3CFOROC",
+    "value": 100,
+    "height": 1,
+    "status": [{
+      "dateTime": "2024-11-20T15:27:11",
+      "id": "668994014",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "weight": 10,
+    "type": "Box",
+    "content": "Caja sorpresa",
+    "numGuide": "50SYEV1W",
+    "lenght": 12,
+    "volume": 31.200000000000003,
+    "addressee": {
+      "phoneNumber": "3233033521",
+      "address": "CRA 7A N° 58-51 La Cumbre",
+      "city": "MANIZALES CALDAS",
+      "name": "Juan David Reyes Ortiz",
+      "id": "KJI9W"
+    },
+    "sender": {
+      "phoneNumber": "31323343484",
+      "address": "Ciudad Jardin, por la floresta",
+      "city": "VILLAMARIA CALDAS",
+      "name": "Sara Toro Londoño",
+      "id": "C0003"
+    },
+    "width": 2,
+    "payment": 36200,
+    "isFragile": true,
+    "id": "50SYEV1W",
+    "value": 500,
+    "height": 1.3,
+    "status": [{
+      "dateTime": "2024-11-21T20:29:30",
+      "id": "1776783314",
+      "deliveryStatus": "RECEIVED"
+    }]
+  },
+  {
+    "weight": 6,
+    "type": "Box",
+    "content": "Paquete de supervivencia",
+    "numGuide": "VGKGVZYA",
+    "lenght": 9,
+    "volume": 12.297600000000001,
+    "addressee": {
+      "phoneNumber": "3233033231",
+      "address": "CR 7A 58 51 URB LA CUMBRE CA",
+      "city": "SALGAR ANTIOQUIA",
+      "name": "Juan Esteban Patiño Osorio",
+      "id": "P70QF"
+    },
+    "sender": {
+      "phoneNumber": "3004567841",
+      "address": "Cra 27 N°50 A 45",
+      "city": "BELMIRA ANTIOQUIA",
+      "name": "Hermenegildo María",
+      "id": "UFXSX"
+    },
+    "width": 1.12,
+    "payment": 15297.600000000002,
+    "isFragile": true,
+    "id": "VGKGVZYA",
+    "value": 800,
+    "height": 1.22,
+    "status": [{
+      "dateTime": "2024-12-01T19:20:04",
+      "id": "1536960422",
+      "deliveryStatus": "RECEIVED"
+    }]
+  }
+]
